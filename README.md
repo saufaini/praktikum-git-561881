@@ -3,3 +3,7 @@
 
 ## Git log (Tugas 2)
 ![Git Log Tugas 2](gitLog(Tugas2).png)
+
+## Branch Protection Rules
+![Git Log Tugas 2 (Rules)](BP_rules.png)
+
