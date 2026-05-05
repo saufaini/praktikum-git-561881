@@ -8,7 +8,7 @@
 * 38f0072 feat: add content paragraph
 * 72f563d feat: add initial html
 
-![Git Log Tugas 1](online graph.png)
+![Git Log Tugas 1](online_graph.png)
 
 ## Git log (Tugas 2)
 *   3a0ab0b (HEAD -> main, origin/main) Merge pull request #3 from saufaini/hotfix/typo
