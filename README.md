@@ -4,6 +4,11 @@
 ## Git log (Tugas 2)
 ![Git Log Tugas 2](gitLog(Tugas2).png)
 
-## Branch Protection Rules
+## Branch Protection Rules (Tugas 2)
 ![Git Log Tugas 2 (Rules)](BP_rules.png)
 
+## Conflict (Tugas 3)
+![Conflict](konflik_ab.png)
+
+## Git Log (Tugas 3)
+![Conflict](gitLog(Tugas3).png)
