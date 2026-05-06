@@ -40,8 +40,10 @@ open index.html
 atau bisa juga dengan membuka folder project melalui File Explorer/Finder, lalu klik dua kali file index.html untuk melihat tampilan website.
 
 ## Screenshoot Website (Tugas 4)
-![Screenshoot web]((web-html).png)
+![Screenshoot web](web-html.png)
 
+## 3 isues
+![Issues](issues_123.png)
 
 
 ## 🧠 Dokumentasi Perintah Git (Bagian 1)
@@ -153,3 +155,6 @@ atau bisa juga dengan membuka folder project melalui File Explorer/Finder, lalu 
 ### 🧪 Testing
 
 - `open index.html` → membuka file website di browser untuk melihat hasil akhir
+
+### Release
+![Release](publish.png)
